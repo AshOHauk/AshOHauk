@@ -6,6 +6,9 @@
     </a>
   </div>
 </div>
+<div align="center">
+  <p>I have recently completed a Graduate Diploma in Systems Analysis from NUS-ISS in 2024. My primary focus is on leveraging my sales background to explore and develop innovative solutions for real-world challenges through the application of cutting-edge tools and techniques.</p>
+</div>
 
 ## 🔧 Technologies & Tools
 
@@ -33,3 +36,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+## 💻 Personal mini-projects that I am currently working on
+
+**1. Singapore Traffic Dashboard**
+
+  An interactive dashboard displaying real-time traffic conditions across Singapore. Built with SolidJS, Typescript, and TailwindCSS for a responsive design, this project aggregates live traffic camera feeds provided by LTA (Land Transport Authority) to offer commuters a quick glance at road situations. The dashboard also highlights current traffic incidents, ensuring users have the most up-to-date information for planning their journeys.
+  <br/><a href="https://ashohauk.github.io/SG-Traffic-Image-Dashboard/">Explore the SG Traffic Dashboard<a/> <i>Initial load times may vary as the VM hosting the backend services needs time to start<i/>
